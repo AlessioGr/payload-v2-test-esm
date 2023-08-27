@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@alessiogr/payloadtest':
-    specifier: 1.33.0
-    version: 1.33.0(typescript@5.2.2)
+    specifier: 1.34.0
+    version: 1.34.0(typescript@5.2.2)
   '@alessiogr/payloadtestdb-mongodb':
     specifier: 0.0.6
     version: 0.0.6
@@ -49,8 +49,8 @@ devDependencies:
 
 packages:
 
-  /@alessiogr/payloadtest@1.33.0(typescript@5.2.2):
-    resolution: {integrity: sha512-tih9Pe7UHpv7pZWywUpI0D80LXE8GlPA2Oo+aBvn6O/qjTeJ+9UucgH9oWK5lMxQQ2CIFhiAUcnhAYnOe2jTIw==}
+  /@alessiogr/payloadtest@1.34.0(typescript@5.2.2):
+    resolution: {integrity: sha512-kB/ck/tj5hBleQsbDLMqiknL4dBlufhvKSGHmThVln2CPRlKH0ZvaHymZtHVKZ531I8dsEn4t9ejbo94r2Z8xA==}
     engines: {node: '>=14', pnpm: '>=8'}
     hasBin: true
     dependencies:
