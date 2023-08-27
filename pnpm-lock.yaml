@@ -6,11 +6,11 @@ settings:
 
 dependencies:
   '@alessiogr/payloadtest':
-    specifier: 1.32.0
-    version: 1.32.0(typescript@5.2.2)
+    specifier: 1.33.0
+    version: 1.33.0(typescript@5.2.2)
   '@alessiogr/payloadtestdb-mongodb':
-    specifier: 0.0.5
-    version: 0.0.5
+    specifier: 0.0.6
+    version: 0.0.6
   add:
     specifier: ^2.0.6
     version: 2.0.6
@@ -49,8 +49,8 @@ devDependencies:
 
 packages:
 
-  /@alessiogr/payloadtest@1.32.0(typescript@5.2.2):
-    resolution: {integrity: sha512-Lw9luhVFN6OCvpwBwboqT/lPntDkDHAgirsRVWhjPL6nw/SduK0YnpJlAmdwpVh/9Q8aMOl9cVKBQTg3WtuCnw==}
+  /@alessiogr/payloadtest@1.33.0(typescript@5.2.2):
+    resolution: {integrity: sha512-tih9Pe7UHpv7pZWywUpI0D80LXE8GlPA2Oo+aBvn6O/qjTeJ+9UucgH9oWK5lMxQQ2CIFhiAUcnhAYnOe2jTIw==}
     engines: {node: '>=14', pnpm: '>=8'}
     hasBin: true
     dependencies:
@@ -189,8 +189,8 @@ packages:
       - webpack-dev-server
     dev: false
 
-  /@alessiogr/payloadtestdb-mongodb@0.0.5:
-    resolution: {integrity: sha512-k490KKj5P6pZpQ4KeJyVsXKYt6F5wdlzfhnYduIzB9/JQZCww5RXK1erlaXnvRvXv5Z3Qsu+B8uPS/+kSAb1yg==}
+  /@alessiogr/payloadtestdb-mongodb@0.0.6:
+    resolution: {integrity: sha512-ErW1ujOkgjbT0UEFohD0klHO9PEhQPpUnx4JOUPEa5llpx0E86IkNoxESgI7cRGnPdu+l3MGggH0pBS4wmUBLw==}
     dependencies:
       bson-objectid: 2.0.4
       deepmerge: 4.3.1
